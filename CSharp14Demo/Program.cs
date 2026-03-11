@@ -1,7 +1,7 @@
 ﻿using CSharp14Demo;
 
 Console.WriteLine("=================================");
-Console.WriteLine("      C# 14 Feature Demo");
+Console.WriteLine("C# 14 Feature Demo");
 Console.WriteLine("=================================\n");
 
 ExtensionMembersDemo.Run();
